@@ -1,0 +1,12 @@
+Sign up for a free account at https://chart-studio.plot.ly/create/box-plot. Click on "Try Free Edition" and sign up for a free account.
+After logged in, click on “Import” at the top right of your screen. 
+Load the “Energy Efficiency” data set into this project by clicking either “Upload” or  “drag and drop your files” 
+Once the data is loaded, Click on “+Trace” which is on top left side of the screen. Select  “Boxplot” as “Chart Type”.
+Select “Column 5” (variable name “X6”) as “X Data”
+X6 is code for the categorical variable, orientation. The meaning of the numerical code is not available for this data set. and “Column9” (variable name “Y2”) as “Values”.
+Once again Click on “+Trace” which is on top left side of the screen. Select  “Boxplot” as “Chart Type”. 
+Select “Column 5” (variable name “X6”) as “X Data”
+(X6 is code for the categorical variable, orientation. The meaning of the numerical code is not available for this data set.) and “Column8” (variable name “Y1”) as “Values”.
+(Note Y1 is heating load, and Y2 is cooling load. They are   both quantitative variables.)
+ Double Click on the X-label of the resultant plot and rename the X-label as “Orientation” and similarly double click on the Y-label and rename it as “Load”
+Similarly rename the legend names, which is on the top-right corner of the plot by double clicking it. Change “Column 8” to “Heating Load” and “Column9” to “Cooling Load”. 
